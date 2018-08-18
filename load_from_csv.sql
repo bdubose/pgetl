@@ -1,5 +1,6 @@
 \t
 \set ON_ERROR_STOP yes
+set client_min_messages to warning;
 -- parameters --------------
 \set filename     :filename
 \set tablename    :tablename
