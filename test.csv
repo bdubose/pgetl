@@ -1,6 +1,6 @@
-id, type, name
-1, fruit, apple
-2, fruit, banana
-3, veg, zuchini
-4, human, zuckerberg
-5, human, "DuBose, Branwin Randall"
+id,type,name
+1, fruit,apple
+2,fruit,banana
+3,veg,zuchini
+4,human,zuckerberg
+5,human,"DuBose, Branwin Randall"
